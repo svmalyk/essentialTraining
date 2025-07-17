@@ -1,0 +1,8 @@
+# This file is to list all the files/folders that will not be tracked.
+# The following folders need not be tracked as they are generated during compilation:
+# build
+# lib
+# lnInclude
+build
+lib
+lnInclude

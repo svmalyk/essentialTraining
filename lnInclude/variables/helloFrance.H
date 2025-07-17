@@ -1,1 +1,0 @@
-/home/smalik/development/PROJECTS_CXX/essentialTraining/src/variables/helloFrance.H
